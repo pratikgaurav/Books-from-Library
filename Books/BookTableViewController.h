@@ -1,5 +1,5 @@
 //
-//  ViewController.h
+//  BookTableViewController.h
 //  Books
 //
 //  Created by Kamireddi, Gaurav Venkata Satya Pratik on 11/15/17.
@@ -8,8 +8,6 @@
 
 #import <UIKit/UIKit.h>
 
-@interface ViewController : UIViewController
-
+@interface BookTableViewController : UITableViewController
 
 @end
-
